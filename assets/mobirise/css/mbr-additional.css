@@ -1339,12 +1339,12 @@ body {
 }
 .cid-qtQ1RtDar9 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qtQ1RtDar9 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #232323;
 }
 .cid-qtQ1RtDar9 a {
   font-style: normal;
@@ -1422,7 +1422,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qtQ1RtDar9 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1768,48 +1768,20 @@ body {
 .cid-qtQ6ODT8jS P {
   color: #ffffff;
 }
-.cid-qtQ6BdkCxh {
+.cid-qtRzpGSNfF {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background: linear-gradient(45deg, #232323, #4af796);
 }
-.cid-qtQ6BdkCxh .mbr-slider .carousel-control {
-  background: #1b1b1b;
+@media (min-width: 992px) {
+  .cid-qtRzpGSNfF .mbr-figure {
+    padding-left: 4rem;
+  }
 }
-.cid-qtQ6BdkCxh .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-qtQ6BdkCxh .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-qtQ6BdkCxh .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-qtQ6BdkCxh .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-qtQ6BdkCxh .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
+@media (max-width: 991px) {
+  .cid-qtRzpGSNfF .mbr-figure {
+    padding-top: 3rem;
+  }
 }
 .cid-qtQByucc1g {
   padding-top: 60px;
@@ -1817,10 +1789,10 @@ body {
   background-image: url("../../../assets/images/140064-osqaho-2000x1335.jpg");
 }
 .cid-qtQByucc1g H2 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qtQByucc1g .mbr-section-subtitle {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-qtQA4DUi47 .google-map {
   height: 25rem;
